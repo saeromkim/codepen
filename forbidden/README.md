@@ -1,1 +1,1 @@
-![캡쳐본](forbidden/forbidden_img.png)
+![캡쳐본](forbidden_img.png)
