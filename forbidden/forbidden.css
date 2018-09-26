@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Chicle');
+html, body{
+	margin:0;
+	height: 100vh;
+	font-family: 'Chicle', cursive;
+}
+body{
+	background:
+	url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/azmSlLb/employee-showing-stop-hand-sign-with-a-serious-negation-and-refuse-gesture_bixy0dr8e_thumbnail-full07.png);
+	background-size: cover;
+	background-position: 50% 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.container{
+	background: rgba(255,255,255,0.8);
+	padding: 1em 2em;
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: 30vh;
+}
+h1{
+	color: #e60000;
+}
